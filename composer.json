@@ -1,0 +1,7 @@
+{
+    "name": "zhosoft/composer",
+    "description": "composer learn",
+    "type": "project",
+    "minimum-stability": "dev",
+    "require": {}
+}
